@@ -6,6 +6,8 @@ This repository contains the code for our paper:
 
 Paper: https://arxiv.org/abs/2606.22963
 
+![CM-TTA pipeline](fig/pipeline.png)
+
 CM-TTA is a test-time adaptation method for SAM3 on medical image segmentation tasks. The main implementation is in `method/tpt_mt.py`; `run_cmtta.py` is the entry script I use for evaluation.
 
 ## What is Included
