@@ -13,7 +13,7 @@ from data.NII_test import (
     load_datasets_isic2018,
     load_datasets_promise,
 )
-from instance_method.tpt_mt import TPT_MT
+from method.tpt_mt import TPT_MT
 from sam3.custom_sam3 import get_coop
 from utils.tools import (
     AverageMeter,
